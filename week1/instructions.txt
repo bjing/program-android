@@ -1,0 +1,20 @@
+Lab - Development Environment : Instructions Help
+
+In this UNGRADED Lab you will experiment with the Android Development Environment. Note that since it's ungraded, the assignment's maximum score is 0.
+
+You will set up the Android Developer Toolkit and use it to create, run and debug Android applications. You will also explore some of the advanced tools included with the ADT. After completing the lab you should better understand the tools that developers use to create Android applications.
+
+Important Note: Remember that the students in this class have a wide range of previous experience and varying degrees of familiarity with Java, Eclipse and Android. If you are unfamiliar with these technologies, you may not be able to finish the entire Lab. If, however, you're experienced and already have your Android Development Environment set up, then skip over what you already know and try to get through the rest of the Lab. Because of this, I’m not expecting everyone to finish the entire Lab.
+
+Instructions:
+
+Download the full lab writeup and source code files.
+Unzip the package. It contains a top-level directory called, DevelopmentEnvironment. In that directory, you'll find two other directories, "Writeup" - which contains the Lab writeup, and "Misc" - which contains various sample applications that you'll use in the Lab.
+Once you've finished working on the Lab, please create a one-line text file, containing the following string, without the quotes: "Time Worked: XX minutes." Replace "XX" with the number of minutes you worked on the Lab (just an estimate is fine). Make sure you are creating a real text file, not, for example a .rtf file
+Suggested Time:
+
+1-2 hours. See what you can get done in this time frame. Take a break in the middle, returning later if you need to. Don’t feel that you need to finish everything in this lab. That’s not the goal here.
+
+Specifically, if you are fairly new to programming, you should try to complete Parts 1 – 4. If you are familiar with programming and programming environments, you should try to complete parts 1 – 6. If you’re an experienced programmer and reasonably comfortable with Java, you may want to do the whole thing. It's really up to you.
+
+Enjoy!
